@@ -1,0 +1,44 @@
+/** Login Styles **/
+.logIn{
+  height: 3em !important;
+  background-color: #21293d !important;
+  padding-top: 1em !important;
+  font-family: 'Questrial', sans-serif !important;
+  font-size: 12px !important;
+}
+.logInintems{
+  text-decoration: none !important;
+  color: #FFF !important;
+  font-size: 12px !important;
+}
+.logInintems:hover{
+  color: #FFF;
+  text-decoration: underline !important;
+  font-size: 12px !important;
+}
+/** Navbar styles **/
+.navbar{
+  font-family: 'Questrial', sans-serif !important;
+  font-size: 20px !important;
+  background-color: #cedae8 !important;
+}
+.item1{
+  margin-right: 10em !important;
+}
+.item2{
+  margin-right: 10em !important;
+}
+.item2{
+
+}
+/** Footer styles **/
+.contactUs{
+  height: 3em !important;
+  background-color: #cedae8 !important;
+  font-size: 60px !important;
+  font-family: 'Questrial', sans-serif !important;
+}
+/** Slider styles **/
+.slider{
+  height: 40em !important;
+}
