@@ -1,0 +1,77 @@
+
+
+
+body{
+
+}
+.principal{
+	width: 350px;
+	height: 300px;
+	border: 1px solid #e6e6e6;
+	margin: 10px 0;
+	background: #ffffff;
+    
+}
+.dos{
+	width: 350px;
+	height: 70px;
+	border: 1px solid #e6e6e6;
+	margin: 10px 0;
+	background: #ffffff;
+	font-family: 'Questrial', sans-serif !important;
+}
+	
+
+div{
+	text-align: center;
+	font-size: 12px;
+	font-family: 'Questrial', sans-serif !important;
+}
+p{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 14px;
+}
+
+input{
+	margin-top: 5px;
+    width: 268px;
+	height: 36px;
+    color:#999999;
+	background: #e6e6e6;
+	border-radius: 5px;
+	border: 1px solid #dbdbdb;
+    font-family: 'Questrial', sans-serif !important;
+}
+
+.btn{
+	color:#ffffff;
+	background: #21293d;
+	border-color: #21293d;
+
+}
+img{
+	width: 200px;
+	height: 90px;
+	
+}
+a{
+	font-family: 'Questrial', sans-serif !important;
+	color: #3897f0;
+}
+#uno{
+	margin: auto;
+    width: 27%;
+    height: 20%
+    font-family: 'Questrial', sans-serif !important;
+}
+
+.claseColor{
+	background-color: red;
+}
+.contactUs{
+  height: 3em !important;
+  background-color: #cedae8 !important;
+  font-size: 120px !important;
+  font-family: 'Questrial', sans-serif !important;
+}
